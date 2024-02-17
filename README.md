@@ -1,10 +1,10 @@
 <h1 align="center">Jay`s Personal Portfolio Website</h1>
 
 <p align="center">
-  <a href="http://sal-anvarov.com/" target="blank"><img src="./apps/personal-portfolio/public/assets/thumbnails/website.png" width="320" alt="portfolio website" /></a>
+  <a href="#" target="blank"><img src="./apps/personal-portfolio/public/assets/thumbnails/website.png" width="320" alt="portfolio website" /></a>
 </p>
 
-<p align="center">A modern <a href="https://www.nextjs.org" target="blank" rel="noreferrer noopener">Next.js</a> portfolio website built with 💜 and ☕ by Jay Vasani. <a href="https://www.sal-anvarov.com" target="blank" rel="noreferrer noopener">Deployed</a> with <a href="https://www.hotjar.com/" target="blank" rel="noreferrer noopener">HotJar</a>, <a href="https://tagmanager.google.com/#/home" target="blank" rel="noreferrer noopener">GTM</a>, and <a href="https://formspree.io/" target="blank" rel="noreferrer noopener">Formspree</a> tools for analytics and form tracking.
+<p align="center">A modern <a href="https://www.nextjs.org" target="blank" rel="noreferrer noopener">Next.js</a> portfolio website built with 💜 and ☕ by Jay Vasani. <a href="#" target="blank" rel="noreferrer noopener">Deployed</a> with <a href="https://www.hotjar.com/" target="blank" rel="noreferrer noopener">HotJar</a>, <a href="https://tagmanager.google.com/#/home" target="blank" rel="noreferrer noopener">GTM</a>, and <a href="https://formspree.io/" target="blank" rel="noreferrer noopener">Formspree</a> tools for analytics and form tracking.
 </p>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmsanvarov%2Fpersonal-portfolio&env=ENABLE_TRACKING,HOTJAR_WEBSITE_UID,HOTJAR_VERSION,GOOGLE_TAG_MANAGER_UID,MICROSOFT_CLARITY_UID,DEBUGBEAR_RUM_UID&envDescription=Environment%20Configs%20for%20Website&envLink=https%3A%2F%2Fgithub.com%2Fmsanvarov%2Fpersonal-portfolio%23-environment-configuration&project-name=personal-portfolio&repository-name=personal-portfolio&redirect-url=https%3A%2F%2Fgithub.com%2Fmsanvarov%2Fpersonal-portfolio&demo-title=Sal's%20Personal%20Website&demo-url=https%3A%2F%2Fwww.sal-anvarov.com&demo-image=https%3A%2F%2Fwww.sal-anvarov.com%2Fassets%2Fthumbnails%2Fwebsite.png)
@@ -184,13 +184,6 @@ $ npm run test
 
 ---
 
-### 🏗️ Progress
-
-|                                                            Branches | Status |
-| ------------------------------------------------------------------: | :----- |
-|             [main](https://github.com/msanvarov/personal-portfolio) | ✅     |
-| [feat/\*](https://github.com/msanvarov/personal-portfolio/branches) | 🚧     |
-
 <!-- > Remark: This template was employed to create a [Real World example app](https://github.com/gothinkster/realworld) on [Github](). -->
 
 ---
@@ -205,4 +198,4 @@ PRs are appreciated, I fully rely on the passion ❤️ of the OS developers.
 
 This personal portfolio website is [MIT licensed](LICENSE).
 
-[Author](https://linkedin.com/in/sal-anvarov)
+[Author](https://www.linkedin.com/in/jay-vasani-35a9a7252/)
