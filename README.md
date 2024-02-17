@@ -1,7 +1,7 @@
 <h1 align="center">Jay`s Personal Portfolio Website</h1>
 
 <p align="center">
-  <a href="#" target="blank"><img src="./apps/personal-portfolio/public/assets/thumbnails/website.png" width="320" alt="portfolio website" /></a>
+  <a href="#" target="blank"><img src="./apps/personal-portfolio/public/assets/thumbnails/website.png" width="520" alt="portfolio website" /></a>
 </p>
 
 <p align="center">A modern <a href="https://www.nextjs.org" target="blank" rel="noreferrer noopener">Next.js</a> portfolio website built with 💜 and ☕ by Jay Vasani. <a href="#" target="blank" rel="noreferrer noopener">Deployed</a> with <a href="https://www.hotjar.com/" target="blank" rel="noreferrer noopener">HotJar</a>, <a href="https://tagmanager.google.com/#/home" target="blank" rel="noreferrer noopener">GTM</a>, and <a href="https://formspree.io/" target="blank" rel="noreferrer noopener">Formspree</a> tools for analytics and form tracking.
