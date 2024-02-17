@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "heading": "Contact",
+    "mail": {
+      "heading": "MAIL",
+      "icon": "iconoir-mail",
+      "links": ["jxkvasani2909@gmail.com", "jayvasani1921@gmail.com"]
+    },
+    "phone": {
+      "heading": "CONTACT",
+      "icon": "iconoir-phone",
+      "links": [
+        {
+          "text": "Calendly",
+          "href": "https://calendly.com/jxkvasani2909"
+        }
+      ]
+    },
+    "location": {
+      "heading": "LOCATION",
+      "icon": "iconoir-pin-alt",
+      "type": "Location",
+      "location": "Surat, Gujarat"
+    }
+  },
+  "profiles": {
+    "heading": "External",
+    "profiles": [
+      {
+        "link": "https://github.com/thejayvasani",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jay-vasani-35a9a7252/",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Let’s <span>chat.</span>",
+    "onCompletion": "Message has been dispatched!",
+    "button": {
+      "text": "Dispatch Message"
+    }
+  }
+}

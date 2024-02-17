@@ -1,0 +1,95 @@
+{
+  "bio": {
+    "media": "/assets/3d-headshot-lg.png",
+    "details": {
+      "heading": "Bio",
+      "name": "Jay Vasani",
+      "description": "Hard-working freasher engineer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP, Likes to contribute to open-source and create apps on his free time."
+    }
+  },
+  "experience": {
+    "heading": "Experience",
+    "experience": [
+      {
+        "date": "2024 - Present",
+        "title": "Software Engineer Intern",
+        "company": "FalconX"
+      },
+      {
+        "date": "2023 - 2023",
+        "title": "Python Developer Intern",
+        "company": "BrainlyBeam Technologies"
+      },
+      {
+        "date": "2020 - 2021",
+        "title": "Product Designer & Graphics Designer",
+        "company": "Design Pickle"
+      }
+    ]
+  },
+  "education": {
+    "heading": "Education",
+    "education": [
+      {
+        "date": "Professional Certificate",
+        "degree": "Cybersecurity Analyst",
+        "university": "TCS"
+      },
+      {
+        "date": "Professional Certificate",
+        "degree": "SAP AI, ML and IOT",
+        "university": "SAP - Code Unnati"
+      },
+      {
+        "date": "Degree",
+        "degree": "Bachelor Degree in Computer Engineering",
+        "university": "Pacific School of Engineering"
+      }
+    ]
+  },
+  "profiles": {
+    "heading": "Profiles",
+    "caption": "Stay Connected",
+    "media": null,
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    },
+    "profiles": [
+      {
+        "link": "https://github.com/thejayvasani",
+        "icon": "iconoir-github"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jay-vasani-35a9a7252/",
+        "icon": "iconoir-linkedin"
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Let's <br /> <span>collaborate.</span>",
+    "media": "/assets/icons/icon2.png",
+    "button": {
+      "link": "/contact",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  },
+  "credentials": {
+    "heading": "Qualifications",
+    "caption": "A little on Jay",
+    "media": "/assets/signature.png",
+    "button": {
+      "link": "/credentials",
+      "icon": {
+        "light": "/assets/icons/icon-2.svg",
+        "dark": "/assets/icons/icon.svg"
+      }
+    }
+  }
+}
