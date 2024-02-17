@@ -24,8 +24,6 @@ Table of Contents:
 
 ### 📚 Description
 
-Preview: https://www.sal-anvarov.com/
-
 This portfolio website was built with ease of extensibility in mind. This app comes with **MDX** for case-studies and blog management and **Bootstrap** for styling. The app has redux state management via **Redux Toolkit** and **React Hooks**.
 
 > Remark: Given **App Router** is not fully stable, I opted to stay with **Pages Router** until further notice. The plan is to eventually migrate to **App Router**.
