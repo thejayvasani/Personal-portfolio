@@ -54,7 +54,7 @@ This portfolio website was built with ease of extensibility in mind. This app co
 
 #### Manual Deployment without Docker
 
-- Clone the repo via `git clone https://github.com/msanvarov/personal-portfolio`.
+- Clone the repo via `git clone https://github.com/thejayvasani/personal-portfolio`.
 
 - Navigate to the root directory of repo via `cd personal-portfolio`.
 
